@@ -4,6 +4,8 @@
 	 viewBox="0 0 400 300" style="enable-background:new 0 0 400 300;" xml:space="preserve" width="400px" height="300px">
 <style type="text/css">
 	.st0{fill:none;stroke:#3E5AFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{opacity:0.14;fill:#3E5AFF;}
+	.st2{opacity:0.14;fill:#FF4060;}
 </style>
 <line class="st0" x1="19.9" y1="0" x2="19.9" y2="300"/>
 <line class="st0" x1="0" y1="0" x2="0" y2="300"/>
@@ -41,4 +43,9 @@
 <line class="st0" x1="400" y1="259.5" x2="0" y2="259.5"/>
 <line class="st0" x1="400" y1="279.4" x2="0" y2="279.4"/>
 <line class="st0" x1="400" y1="299.4" x2="0" y2="299.4"/>
+<rect x="135.1" class="st1" width="129.7" height="299.4"/>
+<rect x="194.7" y="88.7" class="st2" width="10.6" height="54.4"/>
+<rect x="194.7" y="20" class="st2" width="10.6" height="54.4"/>
+<rect x="194.7" y="157.3" class="st2" width="10.6" height="54.4"/>
+<rect x="194.7" y="226" class="st2" width="10.6" height="54.4"/>
 </svg>
